@@ -1,0 +1,1 @@
+This is a Django Ecommerce project. This a test project to learn Django properly. 
